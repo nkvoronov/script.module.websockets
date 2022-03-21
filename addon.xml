@@ -16,7 +16,6 @@
 		<description lang="ru_RU">Реализация протокола WebSocket (RFC 6455 и 7692).</description>
 		<description lang="uk_UA">Реалізація протоколу WebSocket (RFC 6455 і 7692).</description>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<platform>all</platform>
 		<email>nkvoronov@gmail.com</email>
 		<source>https://github.com/nkvoronov/script.module.websockets.git</source>
 		<assets>
